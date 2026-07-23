@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0078D4&height=220&section=header&text=AutomateCodeLab&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=YouTube%3A%20Maneesh%20Code%20Lab%20%7C%20Coding%2C%20Automation%20%26%20Agentic%20AI&descSize=18&descAlignY=60&descColor=A8D8EA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0078D4&height=220&section=header&text=AutomateCodeLab&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=YouTube%3A%20Maneesh%20Code%20Lab%20%7C%20Coding%2C%20Automation%2C%20Agentic%20AI&descSize=18&descAlignY=60&descColor=A8D8EA" width="100%"/>
 
 </div>
 
