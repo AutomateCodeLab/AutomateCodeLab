@@ -33,7 +33,7 @@
 | 🐍 [**Python from Scratch**](https://www.youtube.com/playlist?list=PLlMIXoP9wwAi_EBGM-IbrmuKLI9mIsEN6) | Python fundamentals, beginner level | [PythonMastery](https://github.com/AutomateCodeLab/PythonMastery) |
 | 🐍 [**Python Advance Series**](https://www.youtube.com/playlist?list=PLlMIXoP9wwAhHLNfvUawpUaORFsCXVT4G) | Advanced Python patterns and practice | [PythonAdvance](https://github.com/AutomateCodeLab/PythonAdvance) |
 | ☕ [**Java from Scratch**](https://www.youtube.com/playlist?list=PLlMIXoP9wwAh8ZRpBC9WrWKKngxSp9mvI) | Java fundamentals through practice | [JavaMastery](https://github.com/AutomateCodeLab/JavaMastery) |
-| 🧠 [**Machine Learning from Scratch**](https://www.youtube.com/playlist?list=PLlMIXoP9wwAitp5cCLhGwVzBS5U8xQx84) | ML fundamentals, no black boxes | *repo coming soon* |
+| 🧠 [**Machine Learning from Scratch**](https://www.youtube.com/playlist?list=PLlMIXoP9wwAitp5cCLhGwVzBS5U8xQx84) | ML fundamentals, no black boxes | [MachineLearningFromScratch](https://github.com/AutomateCodeLab/MachineLearningFromScratch) |
 
 ---
 
@@ -74,6 +74,7 @@ The production-grade companion to the series: governance, evaluation, guardrails
 | Repository | What it is |
 |---|---|
 | 🚩 [**AgenticAI-Unpacked**](https://github.com/AutomateCodeLab/AgenticAI-Unpacked) | Flagship — the 6-episode Agentic AI series, full source code |
+| 🚩 [**MachineLearningFromScratch**](https://github.com/AutomateCodeLab/MachineLearningFromScratch) | Flagship — Machine Learning from Scratch series, full source code |
 | [PythonMastery](https://github.com/AutomateCodeLab/PythonMastery) | Python fundamentals through practice |
 | [PythonAdvance](https://github.com/AutomateCodeLab/PythonAdvance) | Advanced Python patterns |
 | [JavaMastery](https://github.com/AutomateCodeLab/JavaMastery) | The Java Mastery series |
