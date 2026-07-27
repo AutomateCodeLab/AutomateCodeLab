@@ -57,6 +57,8 @@ flowchart LR
 
 Six episodes, one continuous build: the loop → real tools → a team of agents → memory → safety. Every episode is self-contained with tested code and a full README — see [`AgenticAI-Unpacked`](https://github.com/AutomateCodeLab/AgenticAI-Unpacked).
 
+📎 Prefer a scroll-through summary? Each episode also has a **visual breakdown** — pattern, concepts, and takeaways in one shareable page — linked from the [repo README](https://github.com/AutomateCodeLab/AgenticAI-Unpacked#follow-along--one-visual-breakdown-per-episode).
+
 ---
 
 ## 📘 Featured Book
